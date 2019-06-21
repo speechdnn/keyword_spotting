@@ -1,7 +1,7 @@
 # keyword_spotting
 keyword spotting for speech 
 
-the key word is 'dog',and the time of the wav file is about 1 second. 
+the key word is 'dog',and the time length of the wav file is about 1 second. 
 
 Noise are other words, and all the words wav files could be find in 
 
