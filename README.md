@@ -15,3 +15,7 @@ The data input reference the project
 https://github.com/friday27/KeywordSpotting
 
 Just used for shuffle the wav data and label the data with 0 or 1.
+
+
+About the feature,this version is mfcc-128,also you can use other feature, such plp,plcc,mfcc-delta,mfcc-delta2,
+Nowadays,I have tried mfcc-20,mfcc-delta-20,mfcc-delta2-20,but the result is not good, worse than mfcc-128.
